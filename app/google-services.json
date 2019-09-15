@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574317779596",
+    "firebase_url": "https://finalstudybuddy-561eb.firebaseio.com",
+    "project_id": "finalstudybuddy-561eb",
+    "storage_bucket": "finalstudybuddy-561eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574317779596:android:aeadae3cac69b007b6b9a9",
+        "android_client_info": {
+          "package_name": "com.example.finalstudybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574317779596-jot0drf6j88usoc5og33mf6vko9q2l8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalstudybuddy",
+            "certificate_hash": "5b5a4c0ce936467a3689e7fbe73fd0a82aee9996"
+          }
+        },
+        {
+          "client_id": "574317779596-elao0nbitpcpkqefbibs1m7f7aob5qe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHC-4X43v_PqFuVJEpTmD12FwuyMdB0-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574317779596-elao0nbitpcpkqefbibs1m7f7aob5qe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

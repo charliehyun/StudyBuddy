@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalStudyBuddy</string>
+    <string name="title_activity_buddy">Buddy</string>
+    <string name="title_home">Find Buddies</string>
+    <string name="title_dashboard">Current Buddies</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nobuddiesyetEditText">No buddies yet :(</string>
+    <string name="nonewnotificationsEditText">No new notifications :)</string>
+    <string name="ex_ma26100">ex: MA26100</string>
+    <string name="find_a_buddy">Find a buddy</string>
+    <string name="enter_course_number">Enter course number:</string>
+</resources>
